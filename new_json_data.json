@@ -1,0 +1,48 @@
+{
+  "markers": [
+    {
+      "name": "Google, 8th Avenue",
+      "position": [
+        40.7414728,
+        -74.0055813
+      ],
+      "is_gigantic": true,
+      "id": 4539,
+      "unic": "\u00f6i\u015f\u011f\u00fc",
+      "now": "24/07,21 02:08:21"
+    },
+    {
+      "name": "Microsoft, Times Square",
+      "location": [
+        40.7565323,
+        -73.9904037
+      ],
+      "is_gigantic": false,
+      "id": 2105,
+      "unic": "\u00f6i\u015f\u011f\u00fc",
+      "now": "24/07,21 02:08:21"
+    },
+    {
+      "name": "Tesla, Washington Street",
+      "location": [
+        40.7411595,
+        -74.0097167
+      ],
+      "is_gigantic": null,
+      "id": 4380,
+      "unic": "\u00f6i\u015f\u011f\u00fc",
+      "now": "24/07,21 02:08:21"
+    },
+    {
+      "name": "Amazon New York",
+      "location": [
+        40.7532822,
+        -74.0010696
+      ],
+      "is_gigantic": null,
+      "id": 1095,
+      "unic": "\u00f6i\u015f\u011f\u00fc",
+      "now": "24/07,21 02:08:21"
+    }
+  ]
+}
